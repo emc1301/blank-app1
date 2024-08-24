@@ -5,7 +5,6 @@ st.write(
     "I hope this works."
 )
 
-import streamlit as st
 import pandas as pd
 
 # Function to load and combine multiple CSVs into a single DataFrame

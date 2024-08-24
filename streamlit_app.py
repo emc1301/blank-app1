@@ -6,6 +6,7 @@ st.write(
 )
 
 import pandas as pd
+pip install -r requirements.txt
 
 # Function to load and combine multiple CSVs into a single DataFrame
 def load_data(uploaded_files):
